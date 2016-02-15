@@ -2,6 +2,7 @@ name: CINCO
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.56581
+title: welcome
 cta:
   domain: null
   bucket: null
