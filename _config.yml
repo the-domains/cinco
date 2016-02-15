@@ -1,7 +1,7 @@
 name: CINCO
 favicon: null
-layout_spectrum: 0.5886770682409406
-typography_spectrum: 0.9230708272662014
+layout_spectrum: 0
+typography_spectrum: 0.56581
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.3342600183095783
-  lightness: 0.17269782815128565
-  saturation: 0.542745930608362
-  rhythmicContrast: 0.5337618116755038
+    - '#dbe5ee'
+    - '#c3d3db'
+    - '#94a4ab'
+    - '#6b858f'
+    - '#57727c'
+  brandStrength: 0
+  lightness: 1
+  saturation: 0.0625
+  rhythmicContrast: 0
 purpose: []
